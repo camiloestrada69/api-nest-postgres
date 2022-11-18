@@ -1,0 +1,4 @@
+export enum AMBIENTES {
+  PRODUCCION = 'PRODUCCCION',
+  PRUEBAS = 'PRUEBAS',
+}
